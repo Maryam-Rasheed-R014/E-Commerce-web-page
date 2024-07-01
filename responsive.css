@@ -1,0 +1,377 @@
+@media screen and (max-width:1201px){
+    #header .top-bar .ecom ul li .ri-heart-line{
+        display: none;
+    }
+    #header .image img {
+        width: 550px;
+    }
+   
+    #latest .row   .col-md-4 .img img{
+        width: 300px;
+    }}
+
+/* ---------------for upto 1025---------------------- */
+@media screen and (max-width:1025px){
+   
+    #header .image img {
+        width: 500px;
+    }
+    #popular .two .item .img1 .heart {
+margin-left: 150px;
+    }
+    #popular .two .item .img1 img{
+      width: 170px;
+    }
+    #craft .row3 .div1{
+        border-width: 20px;
+    }
+    #craft .row3 .col1 img{
+        width: 250px;
+    }
+    #craft .row3 .col1 .text{
+        padding-right: x0px;
+    }
+    #craft .row3 .col2 img{
+        width: 250px;
+    }x
+    #new .three  .item .img1 .heart{
+        margin-left: 150px;
+    }
+    #new .three  .item .img1 img{
+      width: 170px;
+    }
+      #new .row .img2 img{
+        width: 450px;
+    }
+    #new  .img3 div img{
+        height: 200px;
+      
+    }
+    #new  .img3 div{
+        margin-right: -25px;
+       width: 220px;
+       height: 275px;
+        
+    }
+    #latest .row   .col-md-4 .img img{
+      
+          width: 290px;}
+}
+
+/*---------------------------------for upto 990------------------------------ */
+
+@media (max-width:991px){
+    #header .top-bar .nav-bar ul{
+        display: none;
+    }
+    #header .top-bar .ecom ul{
+        display: none;
+    }
+   .menu-icon{
+    display: block;
+}
+#craft .row3 .div1{
+    border:0;
+}
+}
+
+/*---------------------------------for upto 960------------------------------ */
+@media (max-width:961px){
+  
+    #craft .row3 .col1 img{
+        margin-bottom: 40px;
+        width: 200px;
+        height: 200px;
+    }
+    #craft .row3 .col2 img{
+        margin-bottom: 40px;
+        width: 150px;
+        height: 200px;
+        margin-left:-10px;
+        
+    }
+    #craft .row3 .col1 .text h2,   #craft .row3 .col2 .text h2{
+    font-size: 15px;
+    }
+    #craft .row3 .col1 .text button, #craft .row3 .col2 .text button{
+        margin-top: 20px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    
+    #new .row .img1 img{
+            
+        height: 430px;
+        width: 300px;
+        float: right;
+    
+       
+    }
+    #new .row2 .img2 img{
+        width: 300px;
+       
+    }
+    #new .img3>div{
+        width:150px;
+        margin-right: -25px;
+        height: 250px;
+    
+        }
+        #latest .row   .col-md-4 .img img{
+            width: 200px;
+        }
+        footer .row ul li .email{
+            margin-bottom: -80px;
+        }}
+        /* ------------------------for upto 767-------------------------- */
+        @media (max-width:767px){
+           
+        .icon1{
+            width: 100%;
+        }
+                #craft .row3 .col2{
+                    margin-top: 40px;
+
+                }
+                #craft .row3 .col1 img{
+                    margin-bottom: 40px;
+                    margin-top: -60px;
+                    width: 300px;
+                    height: 300px; 
+                }
+                #craft .row3 .col2 img{
+                    width: 250px;
+                    height: 300px;
+                }               
+                 #craft .row3 .col1 .text h2,   #craft .row3 .col2 .text h2{
+                    font-size: 30px;
+                    padding-top: 10px;
+                    
+                    }
+                     #craft .row3 .col1 .text h3, #craft .row3 .col2 .text h3{
+                        font-size: 30px;
+                        padding-top: 90px;
+                     }
+                     #craft .row3 .col1 .text button,   #craft .row3 .col2 .text button{
+                        margin-top: 10px;
+                        margin-right: 20px;
+                        width: 150px;
+                    }
+                    #new .row .img1 img{
+            
+                        height: 500px;
+                        margin-left: 90px;
+                    
+                       
+                    }
+                    #new .row2 .img2 img{
+                        width: 400px;
+                        margin-left: 40px;
+                       
+                    }
+                    #new .img3>div{
+                        width:250px;
+                        margin-right: -25px;
+                        height: 250px;
+                    
+                        }
+                        #latest .row   .col-md-4 .img img{
+                            width: 400px;
+                        }
+                        footer .row .col-lg-6 .row  .col-md-6 {
+                            text-align: center;
+                      
+                           }
+                           footer .row .col-lg-6 .row .col-md-6 .align  {
+                         text-align: center;
+                         padding-left: 40%;
+                         
+                           }
+                           footer .row .col-lg-6 .row .col-md-6:nth-child(2){
+                            margin-top: 70px;
+                           }
+                           footer .row ul li .email{
+                            margin-left: -25%;
+                         
+                           }
+                      
+        }
+    
+    @media (max-width:576px){
+        img{
+            overflow:hidden;
+           
+        }
+        #new .img3 .div1{
+            width: 100%;
+            margin-left: 2%;}
+        #new .img3 .div2{
+           width: 100%;
+           margin-top: 20px;
+          margin-left: 2%;
+            height: 250px;
+            float: left;
+        }
+        #new .img3 .div1 img,   #new .img3 .div2 img{
+           padding-left: 30%;
+            width: 70%;
+        }
+        #new .row2 .img2 div,#new .row2 .img2 img{
+            width:96%;
+            margin-left: 2%;
+         
+           
+        }
+        #craft .row3 .col1 {
+            width: 97%;
+            padding-left: 12px;
+        }
+        #craft .row3 .col1 .img1 img{
+   
+            margin-top: 20px;
+             width: 230px;
+             height: 230px; }
+         
+             #craft .row3 .col2 img{
+               
+             width: 190px;
+             height: 200px;
+                        }               
+             #craft .row3 .col1 .text h2,   #craft .row3 .col2 .text h2{
+             font-size: 25px;
+             padding-top: 10px;
+             
+             }
+             #craft .row3 .col1 .text h3, #craft .row3 .col2 .text h3{
+                 font-size: 30px;
+                 padding-top: 90px;
+              } 
+              #new .row2 .img2 img{
+                 width: 250px;
+                 margin-left: 50px;
+                
+             }
+             #new .row .img1 img{
+                  width: 200px;   
+                 height: 300px;
+                 margin-left: 90px;
+             
+                
+             }
+           
+           #craft .row2 .image{
+            width: 95%;
+          }
+          #latest .row   .col-md-4 .img img{
+            width: 300px;
+        }
+        footer .row ul li .email{
+            margin-left: -35%;
+         
+           }
+      
+           
+          }
+         
+
+     @media (max-width:426px){
+     
+        #header .image img {
+            width: 300px;
+            margin-left: 10px;
+        }
+        #header .text h2{
+            font-size: 30px;
+        }    #craft .row .img .img1 div{
+            width: 100%;
+           }
+           #craft .row3 .col1  {
+            width: 88%;
+            margin-left: 15px;
+           }
+           #craft .row3 .col2 {
+            width: 90%;
+           margin-left: 15px;
+        
+                 }
+                 #craft .row3 .col1 .text>h3 {
+                  margin-top:-35%;
+                   
+                 }  
+                 #craft .row3 .col1 .text {
+                   margin-left: -15%;
+                     
+                   } 
+                 #craft .row3 .col1 .img1{
+                    padding-left: 5%;
+                    margin-top: -10%;
+                  
+                 }
+                 #craft .row3 .col2 .img2 ,  
+                 #craft .row3 .col2 .text {
+              padding-left: 30%;
+              }  
+        
+   
+    #craft .row3 .col1 .text h3, #craft .row3 .col2 .text h3{
+        font-size: 30px;
+        padding-top: 90px;
+     } 
+     #craft .row3 .col1 .img1 img{
+        width: 100%;
+       }
+     #new .row2 .img2 img{
+        width: 250px;
+        margin-left: 50px;
+       
+    }
+    #new .row .img1 img{
+         width: 200px;   
+        height: 300px;
+        margin-left: 90px;
+    
+       
+    } 
+    #new .img3>div:first-child{
+   
+        width:102%;   }
+    
+     }
+     @media (max-width:376px){
+        #craft .row3 .col1 .text>h3 {
+            margin-top:-50%;
+             
+           }  
+           #craft .row3 .col1 .text {
+             margin-left: -10%;
+               
+             } 
+           #craft .row3 .col1 .img1{
+              padding-left: 5%;
+              margin-top: -10%;
+              
+            
+           }
+           #craft .row3 .col1 .img1 img{
+            width: 100%;
+           }
+          
+           #craft .row3 .col2 .img2 ,  
+           #craft .row3 .col2 .text {
+        padding-left: 20%;
+        }  
+        #new .row2 .img2 img{
+            width: 70%;           
+        }
+        #new .row .img1 img{
+             width:65%;   
+            height: 250px;
+            margin-left: 90px;
+        
+           
+        }
+        #latest .row   .col-md-4 .img img{
+            width: 80%;
+        }
+
+     }
